@@ -1,0 +1,21 @@
+.Switch {
+  display: inline-block;
+  border: 2px solid black;
+  padding: 5px;
+  margin: 10px;
+}
+.Switch--on {
+  border: 2px solid black;
+  padding: 5px;
+  margin: 10px;
+  background: white;
+  color: black;
+}
+
+.Switch--off {
+  border: 2px solid black;
+  padding: 5px;
+  margin: 10px;
+  background: black;
+  color: white;
+}
